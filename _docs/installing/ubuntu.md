@@ -21,7 +21,7 @@ sudo apt-get install git ffmpeg libopus-dev libffi-dev libsodium-dev python3-pip
 sudo apt-get upgrade -y
 
 # Clone the MusicBot to your home directory
-git clone https://github.com/Just-Some-Bots/MusicBot.git ~/MusicBot -b master
+git clone https://github.com/Narehood/Mozart.git ~/Mozart -b master
 cd ~/MusicBot
 
 # Install Python dependencies
@@ -50,7 +50,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.6 get-pip.py
 
 # Clone the MusicBot to your home directory
-git clone https://github.com/Just-Some-Bots/MusicBot.git ~/MusicBot -b master
+git clone https://github.com/Narehood/Mozart.git ~/Mozart -b master
 cd ~/MusicBot
 
 # Install Python dependencies
