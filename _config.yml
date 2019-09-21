@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: MusicBot
+title: Mozart
 description: The documentation for the original MusicBot for Discord.
-url: "https://Just-Some-Bots.github.io/MusicBot"
+url: "https://narehood.github.io/Mozart/"
 logo: 'images/logo.png'
 google_analytics_key: UA-61418431-2
 show_full_navigation: true
 
-timezone: Etc/UTC
+timezone: ETC/UTC
 permalink: pretty
 
 collections:
