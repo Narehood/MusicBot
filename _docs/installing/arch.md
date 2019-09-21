@@ -16,7 +16,7 @@ sudo pacman -S git python python-pip opus libffi libsodium ncurses gdbm glibc zl
 
 # Clone the MusicBot to your home directory
 cd ~
-git clone https://github.com/Narehood/Mozart.git MusicBot -b master
+git clone https://github.com/Narehood/Mozart.git Mozart -b master
 cd MusicBot
 
 # Install dependencies
