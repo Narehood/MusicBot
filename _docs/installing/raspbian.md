@@ -1,6 +1,6 @@
 ---
 title: Raspbian
-category: Installing the bot
+category: Installing The Bot
 order: 4
 ---
 
@@ -23,7 +23,7 @@ sudo apt install ffmpeg
 # Clone the MusicBot
 cd ~
 git clone https://github.com/Narehood/Mozart.git Mozart -b master
-cd MusicBot
+cd Mozart
 sudo python3 -m pip install --upgrade -r requirements.txt
 ```
 
