@@ -1,6 +1,6 @@
 ---
 title: Debian
-category: Installing the bot
+category: Installing The Bot
 order: 5
 ---
 
@@ -30,4 +30,4 @@ sudo -H python3.5 -m pip install --upgrade pip
 sudo -H python3.5 -m pip install --upgrade -r requirements.txt
 ~~~
 
-After this, you can find a folder called `MusicBot` inside your home directory. [Configure]({{ site.baseurl }}/using/configuration) it, and then run `./run.sh` to start the bot.
+After this, you can find a folder called `Mozart` inside your home directory. [Configure]({{ site.baseurl }}/using/configuration) it, and then run `./run.sh` to start the bot.
