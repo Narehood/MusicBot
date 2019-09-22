@@ -1,6 +1,6 @@
 ---
 title: Ubuntu
-category: Installing the bot
+category: Installing The Bot
 order: 1
 ---
 
@@ -22,7 +22,7 @@ sudo apt-get upgrade -y
 
 # Clone the MusicBot to your home directory
 git clone https://github.com/Narehood/Mozart.git ~/Mozart -b master
-cd ~/MusicBot
+cd ~/Mozart
 
 # Install Python dependencies
 sudo python3 -m pip install -U pip
@@ -51,7 +51,7 @@ python3.6 get-pip.py
 
 # Clone the MusicBot to your home directory
 git clone https://github.com/Narehood/Mozart.git ~/Mozart -b master
-cd ~/MusicBot
+cd ~/Mozart
 
 # Install Python dependencies
 sudo python3.6 -m pip install -U pip
@@ -80,8 +80,8 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.6 get-pip.py
 
 # Clone the MusicBot to your home directory
-git clone https://github.com/Just-Some-Bots/MusicBot.git ~/MusicBot -b master
-cd ~/MusicBot
+git clone https://github.com/Narehood/Mozart.git ~/Mozart -b master
+cd ~/Mozart
 
 # Install Python dependencies
 sudo python3.6 -m pip install -U pip
