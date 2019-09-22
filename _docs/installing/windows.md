@@ -1,6 +1,6 @@
 ---
 title: Windows
-category: Installing the bot
+category: Installing The Bot
 order: 2
 ---
 
