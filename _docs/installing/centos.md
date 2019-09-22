@@ -32,9 +32,9 @@ make && make check
 sudo make install
 cd ../.. && rm -rf libsodium
 
-# Clone the MusicBot
+# Clone the Mozart
 git clone https://github.com/Narehood/Mozart.git Mozart -b master
-cd MusicBot
+cd Mozart
 
 # Install bot requirements
 sudo pip3.5 install -U -r requirements.txt
@@ -55,9 +55,9 @@ sudo rpm --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
 sudo rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
 sudo yum -y install ffmpeg ffmpeg-devel -y
 
-# Clone the MusicBot
+# Clone the Mozart
 git clone https://github.com/Narehood/Mozart.git Mozart -b master
-cd MusicBot
+cd Mozart
 
 # Install bot requirements
 sudo python3.5 -m pip install -U -r requirements.txt
